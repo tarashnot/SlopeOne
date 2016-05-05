@@ -1,6 +1,6 @@
 Package: SlopeOne
 Type: Package
-Title: Implementation of slope One algorithm
+Title: Implementation of Slope One algorithm
 Version: 0.1
 Date: 2016-05-05
 Author: Taras Hnot [aut, cre]
