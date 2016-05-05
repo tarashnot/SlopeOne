@@ -1,0 +1,14 @@
+Package: SlopeOne
+Type: Package
+Title: Implementation of slope One algorithm
+Version: 0.1
+Date: 2016-05-05
+Author: Taras Hnot [aut, cre]
+Maintainer: Taras Hnot <tarashnot@gmail.com>
+Depends:
+    R (>= 3.2.3)
+Description: Package contains implementation of algorithm to predict ratings based on Slope One algorithm described at http://en.wikipedia.org/wiki/Slope_One
+License: GPL-3
+LazyData: TRUE
+Imports: data.table, foreach, plyr, reshape2
+RoxygenNote: 5.0.1
